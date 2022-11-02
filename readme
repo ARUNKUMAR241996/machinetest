@@ -1,0 +1,7 @@
+readme
+
+Db used here is Postgress
+
+run db:seed for slots entry in slot table
+
+only active slots are kisted in dropdown 
